@@ -1,0 +1,23 @@
+----------NOTA FISCAL-----------
+
+Nome do comprador: diego
+
+Data: 29/5/2021
+
+Empresa associada: dl
+
+
+
+Itens comprados:
+
+
+
+ID: 10   Nome: coca cola
+   Quantidade comprada: 30   Valor: R$ 300,00
+
+
+
+
+
+Total:                                                   R$ 300,00
+

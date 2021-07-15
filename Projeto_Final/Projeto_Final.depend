@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622235912 source:c:\users\diego\onedrive\Área de trabalho\ifnmg\estrutura de dados\trabalho final\segunda_parte_trabalho_diego_e_lúcio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
